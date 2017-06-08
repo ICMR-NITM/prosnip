@@ -93,9 +93,9 @@ This is an initial version available.
 
 ## Authors
 
-* **Sanjay Deshpande** [PurpleBooth](https://github.com/PurpleBooth)
-* **Sourabh Dattawad**  [PurpleBooth](https://github.com/PurpleBooth)
-* **Pavan Kulkarni**  [PurpleBooth](https://github.com/PurpleBooth)
+* **Sanjay Deshpande** [Profile](https://github.com/sandes89)
+* **Sourabh Dattawad**  [Profile](https://github.com/sourabhdattawad)
+* **Pavan Kulkarni**  [Profile](https://github.com/pavanklkrn)
 
 
 ## License
