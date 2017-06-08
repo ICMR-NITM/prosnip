@@ -54,6 +54,12 @@ R (3.3.2)
 
 Explain how to run the automated tests for this system
 
+Run
+
+```
+python intro.py
+```
+
 ![ScreenShot](https://raw.githubusercontent.com/ICMR-NITM/prosnip/master/screenshots/intro.png)
 
 ### Step 1
@@ -81,23 +87,6 @@ Explain how to run the automated tests for this system
 ![ScreenShot](https://raw.githubusercontent.com/ICMR-NITM/prosnip/master/screenshots/step6.png)
 
 
-
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
 
 ## Versioning
 This is an initial version available.
