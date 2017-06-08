@@ -53,12 +53,31 @@ R (3.3.2)
 ## Running the tests
 
 Explain how to run the automated tests for this system
+
 ![ScreenShot](https://raw.githubusercontent.com/ICMR-NITM/prosnip/master/screenshots/intro.png)
+
+### Step 1
+
 ![ScreenShot](https://raw.githubusercontent.com/ICMR-NITM/prosnip/master/screenshots/step1.png)
+
+### Step 2
+
 ![ScreenShot](https://raw.githubusercontent.com/ICMR-NITM/prosnip/master/screenshots/step2.png)
+
+### Step 3
+
 ![ScreenShot](https://raw.githubusercontent.com/ICMR-NITM/prosnip/master/screenshots/step3.png)
+
+### Step 4
+
 ![ScreenShot](https://raw.githubusercontent.com/ICMR-NITM/prosnip/master/screenshots/step4.png)
+
+### Step 5
+
 ![ScreenShot](https://raw.githubusercontent.com/ICMR-NITM/prosnip/master/screenshots/step5.png)
+
+### Step 6
+
 ![ScreenShot](https://raw.githubusercontent.com/ICMR-NITM/prosnip/master/screenshots/step6.png)
 
 
