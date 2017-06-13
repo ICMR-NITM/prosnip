@@ -39,7 +39,7 @@ start_bt.pack()
 blank2 = Tkinter.Label(root, text="", font=("Arial", 72))
 blank2.pack()
 
-title = Tkinter.Label(root, text="Developed by\nBiomedical Informatics Center,\n ICMR-National Institute of Traditional Medicine,\nBelagavi", font=("Arial", 14))
+title = Tkinter.Label(root, text="Developed by\nBiomedical Informatics Center,\n ICMR-National Institute of Traditional Medicine,\nBelagavi, Karnataka, India", font=("Arial", 14))
 title.pack()
 
 
